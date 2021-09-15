@@ -1,3 +1,3 @@
 # README
 
-I learn Ruby on Rails
+I learn Ruby on Rails and JavaScript
